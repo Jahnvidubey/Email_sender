@@ -27,7 +27,7 @@ def send_email(receiver_email, company_name):
             "Dear HR,\n\n"
             "I hope this email finds you well.\n\n"
             "I am writing to express my interest in the Python Developer position at {company_name}. "
-            "With 1+ year of experience in Python development and experience in FastAPI, Django, web scraping, ML, "
+            "With over a year of experience in Python development and experience in FastAPI, Django, web scraping, ML, "
             "and data analysis, I am excited about the opportunity to contribute to your team.\n\n"
             "Attached is my resume for your review. I look forward to discussing how my skills and background "
             "align with the needs of your team.\n\n"
